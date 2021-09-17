@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/its-me-musa/testimonials-grid)
+- Live Site URL: [Live Site](https://cocky-banach-826272.netlify.app/)
 
 ## My process
 
